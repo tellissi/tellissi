@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tellissi)](https://github.com/tellissi/)
+
+
+
+ ![snake gif](https://github.com/tellissi/tellissi/blob/output/github-contribution-grid-snake.svg)
